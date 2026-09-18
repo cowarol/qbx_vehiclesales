@@ -13,8 +13,8 @@
         "view_contract_int": "[E] Bekijk contract",
         "sell_vehicle": "Voertuig verkopen",
         "sell_vehicle_help": "Verkoop een voertuig aan medeburgers!",
-        "sell_back": "Auto terug verkopen!",
-        "sell_back_help": "Verkoop uw auto direct terug tegen een lagere prijs!",
+        "sell_back": "Auto terugverkopen!",
+        "sell_back_help": "Verkoop je auto direct terug voor een lagere prijs!",
         "interaction": "[E] Voertuig verkopen"
     },
     "success": {
